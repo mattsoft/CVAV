@@ -3,7 +3,7 @@ ColecoVision Audio/Video (CVAV) "Stealth" TRRS Composite Board
 
 License
 
-Please feel free to make and distribute these to whoever you want. Give them away, sell them, make modifications -- I don't care. I made this for myself and if someone else finds it useful, then great. If you don't like this, I don't care. Go make something better and give it to the community. This board definitely works on the 3 ColecoVisions I own; your mileage may vary. Good luck and have fun!
+Please feel free to make and distribute these to whoever you want. Give them away, sell them, make modifications -- I don't care. I made this for myself and if someone else finds it useful, then great. If you don't like this or just want to complain, go make something better and give it to the community. This board definitely works on the 3 ColecoVisions I own; your mileage may vary. Good luck and have fun!
 
 Background
 
