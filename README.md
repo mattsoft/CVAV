@@ -1,6 +1,10 @@
 # CVAV
 ColecoVision Audio/Video (CVAV) "Stealth" TRRS Composite Board
 
+License
+
+Please feel free to make and distribute these to whoever you want. Give them away, sell them, make modifications -- I don't care. I made this for myself and if someone else finds it useful, then great. If you don't like this, I don't care. Go make something better and give it to the community. This board definitely works on the 3 ColecoVisions I own; your mileage may vary. Good luck and have fun!
+
 Background
 
 Back in the 1980s, I was an Atari 2600 kid and was always jealous of my friend's ColecoVision; games like Donkey Kong and Time Pilot looks and played "like the arcade." I recently picked up a ColecoVision to add to my collection of vintage consoles, and immediately began looking for a way to add composite video mostly just to clean up the signal over RF. All of the solutions I found included drilling holes in the case for the RCA jacks. Since I'm one of those weirdos that does not like permanently modifying the outside appearance of the console, I wanted a "better" solution. 
