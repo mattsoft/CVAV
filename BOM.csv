@@ -1,0 +1,23 @@
+﻿ID,Type,Part,Link,Note
+C8,Capacitor,.1uF ceramic,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF5TL2/286538,
+C5,Capacitor,100pF ceramic,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/S101K29SL0N6TK5R/2832278,
+C2,Capacitor,10uF 16v electrolytic,https://www.digikey.com/en/products/detail/würth-elektronik/860010372001/5726842,
+C4,Capacitor,10uF 16v electrolytic,https://www.digikey.com/en/products/detail/würth-elektronik/860010372001/5726842,Optional; bridging with jumper wire OK
+C1,Capacitor,27pF ceramic,https://www.mouser.com/ProductDetail/594-S270K25SL0N63L6R,
+C6,Capacitor,47pF ceramic,https://www.digikey.com/en/products/detail/kemet/C325C470K3G5TA/6657827,
+C7,Capacitor,47pF ceramic,https://www.digikey.com/en/products/detail/kemet/C325C470K3G5TA/6657827,
+C3,Capacitor,47uF 16v electrolytic,https://www.digikey.com/en/products/detail/würth-elektronik/860020372004/5727028,
+D1,Diode,Zener diode,https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/BZX55C5V6-TAP/4826096,Any axial zener diode
+,IC,LM1889N,,Remove from RF PCB
+,IC,LM318N,https://www.mouser.com/ProductDetail/926-LM318N-NOPB,
+,Jack,SJ3-35074A TRRS jack,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ3-35074A/24627968,
+R1,Resistor,10K Ohm resistor,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265,
+R2,Resistor,10K Ohm resistor,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265,
+R6,Resistor,10K Ohm resistor,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265,
+R3,Resistor,150 Ohm resistor,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT150R/1741294,
+R4,Resistor,150 Ohm resistor,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT150R/1741294,
+,Socket,18P DIP socket,https://www.mouser.com/ProductDetail/571-1-2199298-5,Optional; for LM1889N
+,Socket,8P DIP socket,https://www.mouser.com/ProductDetail/571-1-2199298-2,Optional; for LM318N
+R5,,1K Ohm resistor,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314,
+R7,,1K Ohm resistor,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314,
+,Cable,3.5mm TRRS AV cable,https://www.amazon.com/gp/product/B096DVP5Z6/,"Tip = Left Audio, Ring 1 = Video, Ring 2 = Ground, Sleeve = Right Audio"
